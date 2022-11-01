@@ -1,0 +1,10 @@
+.container {
+    border: 3px solid red;
+    background-color: #eaeaea;
+    padding:20px;
+
+}
+
+.container h1 {
+    color: blue;
+}       
