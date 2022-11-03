@@ -5,7 +5,7 @@ return (
 
     <h1>Big heading</h1>
 
-    <p>Hello my first app is Live!</p>
+    <p>Hello my first app is Live! And this is really on the internet</p>
    
     <h2>Smaller sub heading?</h2>
 
